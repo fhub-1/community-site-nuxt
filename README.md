@@ -1,5 +1,10 @@
 # Welcome to the Learn With Joseph Community Website
 
+![alt text](https://drive.google.com/file/d/1NiM2phRdaRDaqQVIWCBM0V-bHpOczQVl/view?usp=sharing)
+<img src="(https://drive.google.com/file/d/1NiM2phRdaRDaqQVIWCBM0V-bHpOczQVl/view?usp=sharing" alt="Alt text"/>
+
+
+
 This website is a platform for developers to share ideas and contribute to the improvement of the website. We are constantly looking for ways to improve the user experience and make the website more useful for our community.
 
 # How to Contribute 

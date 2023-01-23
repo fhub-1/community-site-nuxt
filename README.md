@@ -1,7 +1,7 @@
 # Welcome to the Learn With Joseph Community Website
 
-![alt text](https://drive.google.com/file/d/1NiM2phRdaRDaqQVIWCBM0V-bHpOczQVl/view?usp=sharing)
-<img src="(https://drive.google.com/file/d/1NiM2phRdaRDaqQVIWCBM0V-bHpOczQVl/view?usp=sharing" alt="Alt text"/>
+
+![Screenshot_20230123_122124](https://user-images.githubusercontent.com/71527527/214017709-b96bd2d1-3437-42e2-8fb7-3b6d6178a913.png)
 
 
 

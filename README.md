@@ -1,5 +1,10 @@
 # Welcome to the Learn With Joseph Community Website
 
+
+![Screenshot_20230123_122124](https://user-images.githubusercontent.com/71527527/214017709-b96bd2d1-3437-42e2-8fb7-3b6d6178a913.png)
+
+
+
 This website is a platform for developers to share ideas and contribute to the improvement of the website. We are constantly looking for ways to improve the user experience and make the website more useful for our community.
 
 # How to Contribute 

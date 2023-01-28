@@ -1,5 +1,5 @@
 <template>
- <header class="pb-6 bg-white lg:pb-0">
+ <div class="pb-6 bg-white lg:pb-0">
     <div class="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
         <!-- lg+ -->
         <nav class="flex items-center justify-between h-16 lg:h-20">
@@ -53,7 +53,7 @@
             </div>
         </nav>
     </div>
-</header>
+</div>
 
 </template>
 

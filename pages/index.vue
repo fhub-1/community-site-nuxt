@@ -1,7 +1,5 @@
-// its act has our many page of the app
-<template>
-  <!-- Markup shared across all pages, ex: NavBar -->
-  <TheHeader/>
-  <NuxtPage />
-  <TheFooter/>
+ <template>
+  <div>
+    <h1>welocmo to commuinty page with nuxt 3</h1>
+  </div>
 </template>

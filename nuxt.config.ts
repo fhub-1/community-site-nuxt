@@ -5,6 +5,6 @@
 
 
 export default defineNuxtConfig({
-  modules: ['@nuxtjs/supabase', '@nuxtjs/tailwindcss'],
+  modules: [ '@nuxtjs/tailwindcss',  'nuxt-headlessui'],
 })
 
